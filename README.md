@@ -45,9 +45,6 @@ Este projeto tem como finalidade praticar e consolidar:
 
 ## 🖼️ Interface da Aplicação
 
-> Adicione uma imagem da tela caso queira:
-
-```md
 <img width="389" height="844" alt="image" src="https://github.com/user-attachments/assets/b3646582-ac4f-431c-b05f-6cb626bf7a71" />
 <img width="388" height="839" alt="image" src="https://github.com/user-attachments/assets/83a6e5c2-a47e-4667-be19-22891f44e8a4" />
 <img width="390" height="839" alt="image" src="https://github.com/user-attachments/assets/cf03a087-6454-4763-9e30-78dd8571bbd3" />

@@ -31,7 +31,8 @@ O projeto tem como finalidade praticar:
 
 ### 💡 Tela de Login 
 
-![Imagem do WhatsApp de 2025-10-09 à(s) 10 58 01_6f4d8482](https://github.com/user-attachments/assets/3a6940be-9488-4201-b3c0-e427f1d676f7)
+<img width="390" height="841" alt="image" src="https://github.com/user-attachments/assets/db676a43-6f22-4af3-86db-b25a7ff937b3" />
+
 
 ## 🧩 Principais Componentes
 
